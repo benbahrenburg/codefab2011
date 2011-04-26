@@ -32,6 +32,7 @@ Appcelerator has a very active community on twitter, below are just a few.
 [@dan_tamas](http://twitter.com/dan_tamas)
 [@aaronksaunders](http://twitter.com/aaronksaunders)
 [@tonylukasavage](http://twitter.com/tonylukasavage)
+[@benCoding](http://twitter.com/bencoding)
 [@pecdev](https://twitter.com/pecdev)
 [@kosso](http://twitter.com/kosso)
 [@imnogeekdotcom](http://twitter.com/imnogeekdotcom)
