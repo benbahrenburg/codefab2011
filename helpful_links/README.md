@@ -1,9 +1,13 @@
 ## Appcelerator 
 
 [getting started tutorial](http://developer.appcelerator.com/get_started)
+
 [Developer Center](http://developer.appcelerator.com) 
+
 [Continuous Builds](http://builds.appcelerator.com.s3.amazonaws.com/index.html)
+
 [API Documentation](http://developer.appcelerator.com/apidoc/mobile/latest) 
+
 [Developer Blog](http://developer.appcelerator.com/blog/) 
 
 ## Getting Help
@@ -37,6 +41,8 @@ Appcelerator has a very active community on twitter, below are just a few.
 [@tzmartin](http://twitter.com/tzmartin)
 
 ## IRC Channel
+
+ #titanium, #titanium_dev, or #titanium_app on irc.freenode.org.
 
 ## Community Blogs & Tutorials
 [CssGallery](http://cssgallery.info/category/titanium-appcelerator/)
