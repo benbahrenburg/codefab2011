@@ -24,6 +24,7 @@ Appcelerator has a very active community on twitter, below are just a few.
 [@dawsontoth](http://twitter.com/dawsontoth)
 [@titanium_github](http://twitter.com/titanium_github)
 [@anovice](http://twitter.com/anovice)
+[@rblalock](http://twitter.com/rblalock)
 [@dan_tamas](http://twitter.com/dan_tamas)
 [@aaronksaunders](http://twitter.com/aaronksaunders)
 [@tonylukasavage](http://twitter.com/tonylukasavage)
@@ -34,3 +35,12 @@ Appcelerator has a very active community on twitter, below are just a few.
 [@kaz_konno](http://twitter.com/kaz_konno)
 [@dgiul](http://twitter.com/dgiul)
 [@tzmartin](http://twitter.com/tzmartin)
+
+## IRC Channel
+
+## Community Blogs & Tutorials
+[CssGallery](http://cssgallery.info/category/titanium-appcelerator/)
+[Cleary Innovative](http://blog.clearlyinnovative.com/)
+[Tony Lukasavage's Blog](http://savagelook.com/blog/)
+[The Native Advantage](http://thenativeadvantage.com/)
+[Mobile Tuts+](http://mobile.tutsplus.com/category/tutorials/appcelerator/)
