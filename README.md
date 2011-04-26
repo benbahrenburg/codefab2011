@@ -1,4 +1,4 @@
-# CodeFab Appcelerator Presentation
+## CodeFab Appcelerator Presentation
 
 Thank you for checking out the CodeFab Appcelerator presentation information.  This repo 
 contains the materials used during the 2011 CodeFab Appcelerator presentation and links to 
