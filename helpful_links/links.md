@@ -15,14 +15,23 @@
 Appcelerator has a very active community on twitter, below are just a few.
 
 [@appcelerator](http://twitter.com/appcelerator)
+
 [@fusion94](http://twitter.com/fusion94)
+
 [@kevinwhinnery](http://twitter.com/kevinwhinnery)
+
 [@jhaynie](http://twitter.com/jhaynie)
+
 [@donthorp](http://twitter.com/donthorp)
+
 [@billdawson](http://twitter.com/billdawson)
+
 [@marshall_law](http://twitter.com/marshall_law)
+
 [@dawsontoth](http://twitter.com/dawsontoth)
+
 [@titanium_github](http://twitter.com/titanium_github)
+
 [@anovice](http://twitter.com/anovice)
 [@dan_tamas](http://twitter.com/dan_tamas)
 [@aaronksaunders](http://twitter.com/aaronksaunders)
