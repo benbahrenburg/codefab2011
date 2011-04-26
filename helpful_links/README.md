@@ -40,7 +40,28 @@ Appcelerator has a very active community on twitter, below are just a few.
 
 ## Community Blogs & Tutorials
 [CssGallery](http://cssgallery.info/category/titanium-appcelerator/)
+
 [Cleary Innovative](http://blog.clearlyinnovative.com/)
+
 [Tony Lukasavage's Blog](http://savagelook.com/blog/)
+
 [The Native Advantage](http://thenativeadvantage.com/)
+
 [Mobile Tuts+](http://mobile.tutsplus.com/category/tutorials/appcelerator/)
+
+[Dawson Toth's gist.github](https://gist.github.com/dawsontoth)
+
+## Community Projects
+
+BirdHouse ( Titanium Cross Platform OAuth) 
+[Code](https://github.com/jpurcell/birdhouse)
+[Sample App](https://github.com/jpurcell/birdhouseapp)
+
+TiStorage
+[Code](https://github.com/rblalock/TiStorage)
+
+TiFramework
+[Code](https://github.com/rblalock/TiFramework)
+
+Redux
+[Code](https://github.com/dawsontoth/Appcelerator-Titanium-Redux)
