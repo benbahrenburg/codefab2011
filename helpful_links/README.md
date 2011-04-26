@@ -1,6 +1,6 @@
 ## Appcelerator 
 
-[getting started tutorial](http://developer.appcelerator.com/get_started)
+[Getting Started Tutorial](http://developer.appcelerator.com/get_started)
 
 [Developer Center](http://developer.appcelerator.com) 
 
