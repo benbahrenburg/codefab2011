@@ -55,7 +55,7 @@ Appcelerator has a very active community on twitter, below are just a few.
 
 BirdHouse ( Titanium Cross Platform OAuth) 
 [Code](https://github.com/jpurcell/birdhouse)
-[Sample App](https://github.com/jpurcell/birdhouseapp)
+| [Sample App](https://github.com/jpurcell/birdhouseapp)
 
 TiStorage
 [Code](https://github.com/rblalock/TiStorage)
@@ -64,5 +64,4 @@ TiFramework
 [Code](https://github.com/rblalock/TiFramework)
 
 Redux
-
 [Code](https://github.com/dawsontoth/Appcelerator-Titanium-Redux)
