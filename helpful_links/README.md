@@ -44,6 +44,20 @@ Appcelerator has a very active community on twitter, below are just a few.
 
  #titanium, #titanium_dev, or #titanium_app on irc.freenode.org.
 
+## Sample Apps
+
+[Kitchen Sink Mobile](https://github.com/appcelerator/titanium_mobile/tree/master/demos/KitchenSink)
+
+[Kitchen Sink iPad](https://github.com/appcelerator/titanium_mobile/tree/master/demos/KitchenSink-iPad)
+
+[ARti](https://github.com/appcelerator-titans/ARti)
+
+[ABC's Writer](https://github.com/appcelerator-titans/abcsWriter)
+
+[Aidori](https://github.com/appcelerator-titans/Aidori)
+
+[Oil Reporter](https://github.com/intridea/oilreporter-mobile)
+
 ## Community Blogs & Tutorials
 [CssGallery](http://cssgallery.info/category/titanium-appcelerator/)
 
@@ -71,3 +85,12 @@ TiFramework
 
 Redux
 [Code](https://github.com/dawsontoth/Appcelerator-Titanium-Redux)
+
+Extanium
+[Website](http://www.extanium.org/)
+
+OAuth Adapter for Appcelerator Titanium
+[Code] (http://code.google.com/p/oauth-adapter/)
+
+Ratings Module
+[gist.github](https://gist.github.com/470113)
