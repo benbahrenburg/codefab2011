@@ -45,11 +45,13 @@ Appcelerator has a very active community on twitter, below are just a few.
 
  #titanium, #titanium_dev, or #titanium_app on irc.freenode.org.
 
-## Sample Apps
+## Example Apps
 
 [Kitchen Sink Mobile](https://github.com/appcelerator/titanium_mobile/tree/master/demos/KitchenSink)
 
 [Kitchen Sink iPad](https://github.com/appcelerator/titanium_mobile/tree/master/demos/KitchenSink-iPad)
+
+## Sample Apps
 
 [ARti](https://github.com/appcelerator-titans/ARti)
 
@@ -71,6 +73,8 @@ Appcelerator has a very active community on twitter, below are just a few.
 [Mobile Tuts+](http://mobile.tutsplus.com/category/tutorials/appcelerator/)
 
 [Dawson Toth's gist.github](https://gist.github.com/dawsontoth)
+
+[Tim Poulsen's Blog](http://skypanther.tumblr.com/)
 
 ## Community Projects
 
@@ -95,3 +99,9 @@ OAuth Adapter for Appcelerator Titanium
 
 Ratings Module
 [gist.github](https://gist.github.com/470113)
+
+XIB to Titanium JS translator
+[Website](http://blog.frogonmobile.com/apps/xib2js/)
+
+Cross-platform Segmented Control
+[Code](https://github.com/skypanther/SegmentedControl)
