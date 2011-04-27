@@ -53,6 +53,8 @@ Appcelerator has a very active community on twitter, below are just a few.
 
 ## Sample Apps
 
+[Tweetanium](https://github.com/appcelerator/tweetanium)
+
 [ARti](https://github.com/appcelerator-titans/ARti)
 
 [ABC's Writer](https://github.com/appcelerator-titans/abcsWriter)
