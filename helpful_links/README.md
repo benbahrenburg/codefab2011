@@ -107,3 +107,6 @@ XIB to Titanium JS translator
 
 Cross-platform Segmented Control
 [Code](https://github.com/skypanther/SegmentedControl)
+
+Calendar View
+[Code](https://github.com/pec1985/Calendar-View-for-Appcelerator)
