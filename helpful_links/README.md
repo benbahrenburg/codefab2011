@@ -110,3 +110,28 @@ Cross-platform Segmented Control
 
 Calendar View
 [Code](https://github.com/pec1985/Calendar-View-for-Appcelerator)
+
+## Icons
+
+GLYPHISH
+[Website](http://glyphish.com/)
+
+Appcelerator Icon Pack
+[Blog](http://developer.appcelerator.com/blog/2010/12/festivus-celebration-day-two-airing-of-grievances.html)
+
+## Design Tools
+
+Balsamiq Mockups
+[Website](http://balsamiq.com/products/mockups)
+
+MockApp
+[Website](http://mockapp.com/)
+
+iPhone Mockup
+[Website](http://iphonemockup.lkmc.ch/)
+
+iPhone GUI PSD
+[Website](http://www.teehanlax.com/blog/2010/06/14/iphone-gui-psd-v4/)
+
+iphoneized List of Mock-up Tools
+[Website](http://iphoneized.com/2009/11/21-prototyping-mockup-wireframing-tools-iphone-app-development/)
